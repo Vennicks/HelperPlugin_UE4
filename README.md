@@ -1,7 +1,8 @@
 # PluginHelper contain:
 
 FileIO:
-    - Description:
+
+   - Description:
         To handle reading and writing in a file (scores for examples)
       
     - FString LoadFileToString(const FString Filename);
